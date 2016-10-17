@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="rich.com" resolutions="1x" timestamp="1476681360886">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="rich.com" resolutions="1x" timestamp="1476681693337">
   <folder name="assets">
     <file name="celinedion.mp4" crc="158838987" seo="true" mt="1476427023000"/>
   </folder>
@@ -14,13 +14,13 @@
     <file name="dining.css" crc="39167474" ref="dining"/>
     <file name="golf.css" crc="3916339458" ref="golf"/>
     <file name="direction.css" crc="122749095" ref="direction"/>
-    <file name="michael-jackson-one.css" crc="3793407573" ref="michael-jackson-one"/>
+    <file name="michael-jackson-one.css" crc="4037631937" ref="michael-jackson-one"/>
     <file name="meeting-room.css" crc="4007149129" ref="meeting-room"/>
     <file name="american-restaurant.css" crc="3809423609" ref="american-restaurant"/>
     <file name="index.css" crc="4236351085" ref="index"/>
     <file name="sightseeing.css" crc="122749095" ref="sightseeing"/>
     <file name="tours.css" crc="4283498685" ref="tours"/>
-    <file name="japanese-restaurant.css" crc="21876444" ref="japanese-restaurant"/>
+    <file name="japanese-restaurant.css" crc="3881616150" ref="japanese-restaurant"/>
     <file name="bar.css" crc="42553858" ref="bar"/>
     <file name="hiking.css" crc="4062592755" ref="hiking"/>
     <file name="cirque-du-soleil.css" crc="3767938471" ref="cirque-du-soleil"/>
@@ -144,10 +144,10 @@
     <file name="beatles04-crop-u3464.jpg" crc="436686954" ref="cirque-du-soleil"/>
     <file name="beatles08-crop-u3496.jpg" crc="3973590124" ref="cirque-du-soleil"/>
     <file name="mj01.jpg" crc="536852592" seo="true" ref="michael-jackson-one"/>
-    <file name="mj02-u3270.png" crc="521123355" ref="michael-jackson-one"/>
-    <file name="mj05-u3272.png" crc="3962987371" ref="michael-jackson-one"/>
-    <file name="mj03-u3274.png" crc="263649285" ref="michael-jackson-one"/>
     <file name="luxor-casino-table-games-pair-dice-crop-u3984.jpg" crc="4152364246" ref="slot-machine"/>
+    <file name="mj02.jpg" crc="683420" seo="true" ref="michael-jackson-one"/>
+    <file name="mj05.jpg" crc="486817261" seo="true" ref="michael-jackson-one"/>
+    <file name="mj03.jpg" crc="3849772250" seo="true" ref="michael-jackson-one"/>
   </folder>
   <file name="index.html" crc="258467599" seo="true" mt="1476410444464" redirect="false"/>
   <file name="dining.html" crc="416221258" seo="true" mt="1476420933317" redirect="false"/>
@@ -157,7 +157,7 @@
   <file name="ballroom.html" crc="4267175315" seo="true" mt="1476680992751" redirect="true"/>
   <file name="elevator.html" crc="4018685849" seo="true" mt="1476680932145" redirect="true"/>
   <file name="restroom.html" crc="450881177" seo="true" mt="1476680958189" redirect="true"/>
-  <file name="japanese-restaurant.html" crc="4228084442" seo="true" mt="1476667641523" redirect="true"/>
+  <file name="japanese-restaurant.html" crc="4170125293" seo="true" mt="1476681673762" redirect="true"/>
   <file name="direction.html" crc="3865057672" seo="true" mt="1476266794459" redirect="false"/>
   <file name="casino.html" crc="261877111" seo="true" mt="1476420892625" redirect="false"/>
   <file name="korean-restaurant.html" crc="162038683" seo="true" mt="1476667994747" redirect="true"/>
@@ -167,7 +167,7 @@
   <file name="slot-machine.html" crc="3870369825" seo="true" mt="1476681237090" redirect="true"/>
   <file name="bar.html" crc="4146880824" seo="true" mt="1476668872170" redirect="true"/>
   <file name="cirque-du-soleil.html" crc="3993339592" seo="true" mt="1476670700072" redirect="true"/>
-  <file name="michael-jackson-one.html" crc="36412307" seo="true" mt="1476681346933" redirect="true"/>
+  <file name="michael-jackson-one.html" crc="3906187474" seo="true" mt="1476681617533" redirect="true"/>
   <file name="hiking.html" crc="3949931110" seo="true" mt="1476665307485" redirect="true"/>
   <file name="golf.html" crc="3763752009" seo="true" mt="1476665875087" redirect="true"/>
   <file name="grand-canyon.html" crc="171555839" seo="true" mt="1476665601539" redirect="true"/>
