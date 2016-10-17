@@ -1,229 +1,337 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://test.com/index.html</loc>
+    <loc>http://rich.com/index.html</loc>
     <lastmod>2016-10-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test.com/ballroom.html</loc>
-    <lastmod>2016-10-12</lastmod>
+    <loc>http://rich.com/celine-dion.html</loc>
+    <lastmod>2016-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test.com/elevator.html</loc>
-    <lastmod>2016-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://test.com/tours.html</loc>
+    <loc>http://rich.com/tours.html</loc>
     <lastmod>2016-10-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test.com/grand-canyon.html</loc>
-    <lastmod>2016-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://test.com/celine-dion.html</loc>
-    <lastmod>2016-10-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://test.com/hiking.html</loc>
-    <lastmod>2016-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://test.com/michael-jackson-one.html</loc>
-    <lastmod>2016-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://test.com/golf.html</loc>
+    <loc>http://rich.com/grand-canyon.html</loc>
     <lastmod>2016-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test.com/bar.html</loc>
+    <loc>http://rich.com/golf.html</loc>
+    <lastmod>2016-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rich.com/hiking.html</loc>
+    <lastmod>2016-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rich.com/michael-jackson-one.html</loc>
+    <lastmod>2016-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rich.com/cirque-du-soleil.html</loc>
+    <lastmod>2016-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rich.com/bar.html</loc>
+    <lastmod>2016-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rich.com/slot-machine.html</loc>
+    <lastmod>2016-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rich.com/table-game.html</loc>
+    <lastmod>2016-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rich.com/american-restaurant.html</loc>
+    <lastmod>2016-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rich.com/chinese-restaurant.html</loc>
     <lastmod>2016-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test.com/slot-machine.html</loc>
+    <loc>http://rich.com/korean-restaurant.html</loc>
+    <lastmod>2016-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rich.com/casino.html</loc>
     <lastmod>2016-10-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test.com/cirque-du-soleil.html</loc>
+    <loc>http://rich.com/direction.html</loc>
     <lastmod>2016-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test.com/american-restaurant.html</loc>
+    <loc>http://rich.com/japanese-restaurant.html</loc>
+    <lastmod>2016-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rich.com/restroom.html</loc>
+    <lastmod>2016-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rich.com/elevator.html</loc>
+    <lastmod>2016-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rich.com/ballroom.html</loc>
+    <lastmod>2016-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rich.com/meeting-room.html</loc>
+    <lastmod>2016-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rich.com/sightseeing.html</loc>
+    <lastmod>2016-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rich.com/entertainment.html</loc>
+    <lastmod>2016-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rich.com/dining.html</loc>
     <lastmod>2016-10-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test.com/chinese-restaurant.html</loc>
-    <lastmod>2016-10-12</lastmod>
+    <loc>http://rich.com/images/co_sushi_dinner_special_thumb.jpg</loc>
+    <lastmod>2016-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test.com/table-game.html</loc>
+    <loc>http://rich.com/images/si_ahi_poki_thumb.jpg</loc>
+    <lastmod>2016-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rich.com/images/si_baked_green_mussel_thumb.jpg</loc>
+    <lastmod>2016-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rich.com/images/co_sushi_and_sashimi_for_two_thumb.jpg</loc>
+    <lastmod>2016-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rich.com/images/co_tempura_special_thumb.jpg</loc>
+    <lastmod>2016-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rich.com/images/mainpic_b5.jpg</loc>
+    <lastmod>2016-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rich.com/images/hiking00.jpg</loc>
+    <lastmod>2016-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rich.com/images/med_apthoover.jpg</loc>
+    <lastmod>2016-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rich.com/images/dining01.jpg</loc>
+    <lastmod>2016-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rich.com/images/co_ss_combo_thumb.jpg</loc>
+    <lastmod>2016-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rich.com/images/sp_athena_roll_thumb.jpg</loc>
+    <lastmod>2016-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rich.com/images/co_delux_dinner_combo_thumb.jpg</loc>
+    <lastmod>2016-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rich.com/images/ba_baked_428_thumb.jpg</loc>
+    <lastmod>2016-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rich.com/images/co_salmon_special_thumb.jpg</loc>
+    <lastmod>2016-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rich.com/images/te_tiger_roll_thumb.jpg</loc>
+    <lastmod>2016-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rich.com/images/co_dinner_special_thumb.jpg</loc>
+    <lastmod>2016-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rich.com/images/golf04.jpg</loc>
+    <lastmod>2016-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rich.com/images/golf03.jpg</loc>
+    <lastmod>2016-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rich.com/images/golf02.jpg</loc>
+    <lastmod>2016-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rich.com/images/casino3.jpg</loc>
+    <lastmod>2016-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rich.com/images/casino2.jpg</loc>
+    <lastmod>2016-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rich.com/images/casino1.jpg</loc>
+    <lastmod>2016-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rich.com/images/roulette.jpg</loc>
+    <lastmod>2016-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rich.com/images/craps.jpg</loc>
+    <lastmod>2016-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rich.com/images/paigowtiles.jpg</loc>
+    <lastmod>2016-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rich.com/images/baccarat.jpg</loc>
+    <lastmod>2016-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rich.com/images/threecard.jpg</loc>
+    <lastmod>2016-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rich.com/images/paigow.jpg</loc>
+    <lastmod>2016-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rich.com/images/dining03.jpg</loc>
+    <lastmod>2016-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rich.com/assets/celinedion.mp4</loc>
     <lastmod>2016-10-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test.com/dining.html</loc>
-    <lastmod>2016-10-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://test.com/entertainment.html</loc>
-    <lastmod>2016-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://test.com/sightseeing.html</loc>
-    <lastmod>2016-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://test.com/meeting-room.html</loc>
-    <lastmod>2016-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://test.com/japanese-restaurant.html</loc>
-    <lastmod>2016-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://test.com/direction.html</loc>
-    <lastmod>2016-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://test.com/restroom.html</loc>
-    <lastmod>2016-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://test.com/casino.html</loc>
-    <lastmod>2016-10-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://test.com/korean-restaurant.html</loc>
-    <lastmod>2016-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://test.com/images/dining03.jpg</loc>
+    <loc>http://rich.com/images/b9fcee9014b3e4bbd93a0f029980d110.jpg</loc>
     <lastmod>2016-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test.com/images/golf04.jpg</loc>
-    <lastmod>2016-10-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://test.com/images/casino3.jpg</loc>
-    <lastmod>2016-10-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://test.com/images/golf03.jpg</loc>
-    <lastmod>2016-10-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://test.com/images/golf02.jpg</loc>
-    <lastmod>2016-10-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://test.com/images/roulette.jpg</loc>
-    <lastmod>2016-10-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://test.com/images/casino2.jpg</loc>
-    <lastmod>2016-10-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://test.com/images/casino1.jpg</loc>
-    <lastmod>2016-10-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://test.com/images/baccarat.jpg</loc>
-    <lastmod>2016-10-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://test.com/images/craps.jpg</loc>
-    <lastmod>2016-10-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://test.com/images/paigowtiles.jpg</loc>
-    <lastmod>2016-10-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://test.com/images/dining01.jpg</loc>
-    <lastmod>2016-10-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://test.com/images/threecard.jpg</loc>
-    <lastmod>2016-10-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://test.com/images/paigow.jpg</loc>
+    <loc>http://rich.com/images/mainpic_b2.jpg</loc>
     <lastmod>2016-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
