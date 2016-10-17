@@ -17,14 +17,26 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>Tours</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=3916556066"/>
-  <link rel="stylesheet" type="text/css" href="css/tours.css?crc=3872543425" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/tours.css?crc=40586272" id="pagesheet"/>
+  <!-- Other scripts -->
+  <script type="text/javascript">
+   var __adobewebfontsappname__ = "muse";
+</script>
+  <!-- JS includes -->
+  <script type="text/javascript">
+   document.write('\x3Cscript src="' + (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//webfonts.creativecloud.com/bebas-neue:n4:default;abril-fatface:n4:default.js" type="text/javascript">\x3C/script>');
+</script>
    </head>
  <body>
 
   <div class="clearfix borderbox" id="page"><!-- column -->
    <div class="clearfix colelem" id="pu2231"><!-- group -->
     <img class="grpelem" id="u2231" alt="" src="images/hoover-dam-tour-1024x696-u2231.png?crc=335548671" data-image-width="1920"/><!-- rasterized frame -->
-    <img class="grpelem" id="u2241-4" alt="TOURS" width="1880" height="106" src="images/u2241-4.png?crc=35836362"/><!-- rasterized frame -->
+    <div class="browser_width grpelem" id="u2241-4-bw">
+     <div class="clearfix" id="u2241-4"><!-- content -->
+      <p id="u2241-2">TOURS</p>
+     </div>
+    </div>
    </div>
    <div class="clearfix colelem" id="ppu2261"><!-- group -->
     <div class="clearfix grpelem" id="pu2261"><!-- group -->
@@ -66,6 +78,8 @@ var muse_init=function(){require.config({baseUrl:""});require(["jquery","museuti
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
+Muse.Utils.resizeHeight('.browser_width');/* resize height */
+Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */

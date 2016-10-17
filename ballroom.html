@@ -17,12 +17,44 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>Ballroom</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=3916556066"/>
-  <link rel="stylesheet" type="text/css" href="css/ballroom.css?crc=122749095" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/ballroom.css?crc=4099870185" id="pagesheet"/>
+  <!-- Other scripts -->
+  <script type="text/javascript">
+   var __adobewebfontsappname__ = "muse";
+</script>
+  <!-- JS includes -->
+  <script type="text/javascript">
+   document.write('\x3Cscript src="' + (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//webfonts.creativecloud.com/abril-fatface:n4:default.js" type="text/javascript">\x3C/script>');
+</script>
    </head>
  <body>
 
   <div class="clearfix borderbox" id="page"><!-- column -->
-   <div class="verticalspacer" data-offset-top="0" data-content-above-spacer="0" data-content-below-spacer="500"></div>
+   <div class="clearfix colelem" id="pu3643"><!-- group -->
+    <div class="clip_frame grpelem" id="u3643"><!-- image -->
+     <img class="block" id="u3643_img" src="images/ballroom-crop-u3643.jpg?crc=3996174318" alt="" data-image-width="1920" data-image-height="570"/>
+    </div>
+    <div class="browser_width grpelem" id="u3653-4-bw">
+     <div class="clearfix" id="u3653-4"><!-- content -->
+      <p id="u3653-2">BALLROOM</p>
+     </div>
+    </div>
+   </div>
+   <div class="clearfix colelem" id="pu3656"><!-- group -->
+    <div class="clip_frame grpelem" id="u3656"><!-- image -->
+     <img class="block" id="u3656_img" src="images/ballroom01.jpg?crc=137845868" alt="" data-image-width="850" data-image-height="412"/>
+    </div>
+    <div class="clip_frame grpelem" id="u3666"><!-- image -->
+     <img class="block" id="u3666_img" src="images/ballroom02.jpg?crc=190411720" alt="" data-image-width="350" data-image-height="310"/>
+    </div>
+    <div class="clip_frame grpelem" id="u3716"><!-- image -->
+     <img class="block" id="u3716_img" src="images/ballroom03.jpg?crc=4018048980" alt="" data-image-width="350" data-image-height="279"/>
+    </div>
+    <div class="clip_frame grpelem" id="u3686"><!-- image -->
+     <img class="block" id="u3686_img" src="images/ballroom04.jpg?crc=3921418492" alt="" data-image-width="286" data-image-height="426"/>
+    </div>
+   </div>
+   <div class="verticalspacer" data-offset-top="1006" data-content-above-spacer="1006" data-content-below-spacer="73"></div>
   </div>
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -34,6 +66,8 @@ var muse_init=function(){require.config({baseUrl:""});require(["jquery","museuti
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
+Muse.Utils.resizeHeight('.browser_width');/* resize height */
+Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */

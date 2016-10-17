@@ -1,33 +1,38 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="rich.com" resolutions="1x" timestamp="1476664470317">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="rich.com" resolutions="1x" timestamp="1476680663089">
   <folder name="assets">
     <file name="celinedion.mp4" crc="158838987" seo="true" mt="1476427023000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
-    <file name="elevator.css" crc="122749095" ref="elevator"/>
-    <file name="table-game.css" crc="4026378618" ref="table-game"/>
-    <file name="korean-restaurant.css" crc="4196625229" ref="korean-restaurant"/>
+    <file name="elevator.css" crc="481712683" ref="elevator"/>
+    <file name="table-game.css" crc="3828997737" ref="table-game"/>
+    <file name="korean-restaurant.css" crc="455326108" ref="korean-restaurant"/>
     <file name="entertainment.css" crc="122749095" ref="entertainment"/>
-    <file name="ballroom.css" crc="122749095" ref="ballroom"/>
-    <file name="celine-dion.css" crc="3850634013" ref="celine-dion"/>
+    <file name="ballroom.css" crc="4099870185" ref="ballroom"/>
+    <file name="celine-dion.css" crc="253574653" ref="celine-dion"/>
     <file name="casino.css" crc="499073024" ref="casino"/>
     <file name="dining.css" crc="39167474" ref="dining"/>
-    <file name="golf.css" crc="391113284" ref="golf"/>
+    <file name="golf.css" crc="3916339458" ref="golf"/>
     <file name="direction.css" crc="122749095" ref="direction"/>
-    <file name="michael-jackson-one.css" crc="4079066697" ref="michael-jackson-one"/>
-    <file name="meeting-room.css" crc="122749095" ref="meeting-room"/>
-    <file name="american-restaurant.css" crc="4112268366" ref="american-restaurant"/>
+    <file name="michael-jackson-one.css" crc="3878182641" ref="michael-jackson-one"/>
+    <file name="meeting-room.css" crc="4197903705" ref="meeting-room"/>
+    <file name="american-restaurant.css" crc="3809423609" ref="american-restaurant"/>
     <file name="index.css" crc="4236351085" ref="index"/>
     <file name="sightseeing.css" crc="122749095" ref="sightseeing"/>
-    <file name="tours.css" crc="3872543425" ref="tours"/>
-    <file name="japanese-restaurant.css" crc="4270670868" ref="japanese-restaurant"/>
-    <file name="bar.css" crc="4032615917" ref="bar"/>
-    <file name="hiking.css" crc="481977654" ref="hiking"/>
-    <file name="cirque-du-soleil.css" crc="385686274" ref="cirque-du-soleil"/>
-    <file name="restroom.css" crc="122749095" ref="restroom"/>
-    <file name="slot-machine.css" crc="243282204" ref="slot-machine"/>
-    <file name="chinese-restaurant.css" crc="122749095" ref="chinese-restaurant"/>
-    <file name="grand-canyon.css" crc="4101301735" ref="grand-canyon"/>
+    <file name="tours.css" crc="40586272" ref="tours"/>
+    <file name="japanese-restaurant.css" crc="21876444" ref="japanese-restaurant"/>
+    <file name="bar.css" crc="42553858" ref="bar"/>
+    <file name="hiking.css" crc="4062592755" ref="hiking"/>
+    <file name="cirque-du-soleil.css" crc="3767938471" ref="cirque-du-soleil"/>
+    <file name="restroom.css" crc="3837279336" ref="restroom"/>
+    <file name="slot-machine.css" crc="4211493459" ref="slot-machine"/>
+    <file name="chinese-restaurant.css" crc="142510243" ref="chinese-restaurant"/>
+    <file name="grand-canyon.css" crc="3859657137" ref="grand-canyon"/>
+    <file name="iefonts_golf.css" crc="102368654" ref="golf"/>
+    <file name="iefonts_celine-dion.css" crc="4161252200" ref="celine-dion"/>
+    <file name="iefonts_american-restaurant.css" crc="452739268" ref="american-restaurant"/>
+    <file name="iefonts_michael-jackson-one.css" crc="149814969" ref="michael-jackson-one"/>
+    <file name="iefonts_cirque-du-soleil.css" crc="151275932" ref="cirque-du-soleil"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:dining:entertainment:sightseeing:meeting-room:ballroom:elevator:restroom:japanese-restaurant:direction:casino:korean-restaurant:chinese-restaurant:american-restaurant:table-game:slot-machine:bar:cirque-du-soleil:michael-jackson-one:hiking:golf:grand-canyon:tours:celine-dion"/>
@@ -39,10 +44,6 @@
   </folder>
   <folder name="images">
     <file name="dining-u1530.png" crc="129747518" ref="american-restaurant"/>
-    <file name="u1532-4.png" crc="4104935244" ref="american-restaurant"/>
-    <file name="u1528-4.png" crc="3852983329" ref="american-restaurant"/>
-    <file name="u1519-26.png" crc="3890399784" ref="american-restaurant"/>
-    <file name="u1520-27.png" crc="4174146809" ref="american-restaurant"/>
     <file name="dining01.jpg" crc="3897051676" seo="true" ref="american-restaurant"/>
     <file name="dining02-crop-u1523.jpg" crc="4224964969" ref="american-restaurant"/>
     <file name="dining03.jpg" crc="16717552" seo="true" ref="american-restaurant"/>
@@ -54,31 +55,16 @@
     <file name="craps.jpg" crc="4229161673" seo="true" ref="table-game"/>
     <file name="roulette.jpg" crc="4005584478" seo="true" ref="table-game"/>
     <file name="casino3-crop-u1444.jpg" crc="3864910195" ref="slot-machine"/>
-    <file name="u1451-4.png" crc="4038753299" ref="slot-machine"/>
-    <file name="u1454-4.png" crc="409866416" ref="slot-machine"/>
     <file name="casino1.jpg" crc="435819495" seo="true" ref="slot-machine"/>
     <file name="casino2.jpg" crc="3787838165" seo="true" ref="slot-machine"/>
     <file name="casino3.jpg" crc="3869316740" seo="true" ref="slot-machine"/>
-    <file name="u1471-6.png" crc="235519018" ref="slot-machine"/>
-    <file name="u1472-6.png" crc="518710882" ref="slot-machine"/>
-    <file name="u1473-6.png" crc="218255430" ref="slot-machine"/>
     <file name="luxor-casino-table-games-pair-dice-crop-u1502.jpg" crc="4152364246" ref="slot-machine"/>
-    <file name="u1504-4.png" crc="387316024" ref="slot-machine"/>
     <file name="golf01-u1684.png" crc="352566588" ref="golf"/>
-    <file name="u1694-4.png" crc="338379418" ref="golf"/>
     <file name="golf02.jpg" crc="355002578" seo="true" ref="golf"/>
-    <file name="u1720-4.png" crc="3798200529" ref="golf"/>
     <file name="golf03.jpg" crc="52905607" seo="true" ref="golf"/>
-    <file name="u1737-4.png" crc="3965447080" ref="golf"/>
     <file name="golf04.jpg" crc="3774805863" seo="true" ref="golf"/>
-    <file name="u1756-4.png" crc="3869867674" ref="golf"/>
-    <file name="u1767-22.png" crc="3892185424" ref="golf"/>
     <file name="celine01-crop-u1807.jpg" crc="25610254" ref="celine-dion"/>
-    <file name="u1833-28.png" crc="4008674751" ref="celine-dion"/>
     <file name="main01-crop-u2939.jpg" crc="4067981312" ref="japanese-restaurant"/>
-    <file name="u2949-4.png" crc="3941986418" ref="japanese-restaurant"/>
-    <file name="u2952-4.png" crc="434548617" ref="japanese-restaurant"/>
-    <file name="u2960-26.png" crc="3869847048" ref="japanese-restaurant"/>
     <file name="co_dinner_special_thumb.jpg" crc="111376180" seo="true" ref="japanese-restaurant"/>
     <file name="te_tiger_roll_thumb.jpg" crc="3782382889" seo="true" ref="japanese-restaurant"/>
     <file name="co_salmon_special_thumb.jpg" crc="72341253" seo="true" ref="japanese-restaurant"/>
@@ -92,69 +78,99 @@
     <file name="si_ahi_poki_thumb.jpg" crc="20322794" seo="true" ref="japanese-restaurant"/>
     <file name="si_baked_green_mussel_thumb.jpg" crc="4280346939" seo="true" ref="japanese-restaurant"/>
     <file name="mainpic_b10-crop-u2914.jpg" crc="4185412557" ref="korean-restaurant"/>
-    <file name="u2911-4.png" crc="402494099" ref="korean-restaurant"/>
-    <file name="u2921-4.png" crc="434548617" ref="korean-restaurant"/>
-    <file name="u2929-24.png" crc="302055374" ref="korean-restaurant"/>
     <file name="b9fcee9014b3e4bbd93a0f029980d110.jpg" crc="3899225286" seo="true" ref="korean-restaurant"/>
     <file name="macaroon-ice-cream-crop-u2971.jpg" crc="3784802300" ref="korean-restaurant"/>
     <file name="gen-korean-bbw-crop-u3017.jpg" crc="385551767" ref="korean-restaurant"/>
     <file name="mainpic_b2.jpg" crc="3830870443" seo="true" ref="korean-restaurant"/>
     <file name="mainpic_b5.jpg" crc="4186825837" seo="true" ref="korean-restaurant"/>
-    <file name="u1462-10.png" crc="3868520624" ref="slot-machine"/>
     <file name="lasvegas-drink-yardhouse-2-crop-u3174.jpg" crc="4116280842" ref="bar"/>
-    <file name="u3184-4.png" crc="144794391" ref="bar"/>
-    <file name="u3187-4.png" crc="434548617" ref="bar"/>
-    <file name="u3195-25.png" crc="188904305" ref="bar"/>
     <file name="mj-crop-u2343.jpg" crc="3908911171" ref="michael-jackson-one"/>
-    <file name="u2372-7.png" crc="113900118" ref="michael-jackson-one"/>
-    <file name="u2375-39.png" crc="4285257409" ref="michael-jackson-one"/>
     <file name="hiking_main-crop-u2685.jpg" crc="6989808" ref="hiking"/>
-    <file name="u2700-4.png" crc="386099171" ref="hiking"/>
     <file name="hiking00.jpg" crc="319693686" seo="true" ref="hiking"/>
     <file name="hiking01-u2732.png" crc="177473460" ref="hiking"/>
     <file name="hiking02-crop-u2859.jpg" crc="61531130" ref="hiking"/>
     <file name="hiking04-crop-u2885.jpg" crc="3775679528" ref="hiking"/>
-    <file name="u2723-4.png" crc="137190308" ref="hiking"/>
-    <file name="u2742-4.png" crc="4134920885" ref="hiking"/>
-    <file name="u2869-4.png" crc="193989630" ref="hiking"/>
-    <file name="u2895-4.png" crc="276888961" ref="hiking"/>
     <file name="south-crop-u2551.jpg" crc="3820903988" ref="grand-canyon"/>
-    <file name="u2561-4.png" crc="4018402657" ref="grand-canyon"/>
     <file name="navajo_point-crop-u2650.jpg" crc="91655465" ref="grand-canyon"/>
     <file name="grand01-crop-u2670.jpg" crc="4010287654" ref="grand-canyon"/>
     <file name="grandcanyon_northvssouthrim-crop-u2630.jpg" crc="384022977" ref="grand-canyon"/>
-    <file name="images-crop-u2640.jpg" crc="387726489" ref="grand-canyon"/>
-    <file name="u2569-14.png" crc="140630637" ref="grand-canyon"/>
+    <file name="images-crop-u2640.jpg" crc="4063049870" ref="grand-canyon"/>
     <file name="hoover-dam-tour-1024x696-u2231.png" crc="335548671" ref="tours"/>
-    <file name="u2241-4.png" crc="35836362" ref="tours"/>
     <file name="grandcelebration-u2261.png" crc="5034003" ref="tours"/>
     <file name="ctttredrock-u2290.png" crc="536476894" ref="tours"/>
     <file name="med_apthoover.jpg" crc="3901738714" seo="true" ref="tours"/>
     <file name="city-lights-image-u2274.png" crc="480958033" ref="tours"/>
     <file name="cttvfire-u2300.png" crc="4235350606" ref="tours"/>
+    <file name="meeting06-crop-u3726.jpg" crc="3960718038" ref="meeting-room"/>
+    <file name="clv_senateboardroom_10x7_30.jpg" crc="389300333" seo="true" ref="meeting-room"/>
+    <file name="meeting_room02.jpg" crc="3900724132" seo="true" ref="meeting-room"/>
+    <file name="meetingroom03-crop-u3762.jpg" crc="197882052" ref="meeting-room"/>
+    <file name="ballroom-crop-u3643.jpg" crc="3996174318" ref="ballroom"/>
+    <file name="ballroom01.jpg" crc="137845868" seo="true" ref="ballroom"/>
+    <file name="ballroom02.jpg" crc="190411720" seo="true" ref="ballroom"/>
+    <file name="ballroom03.jpg" crc="4018048980" seo="true" ref="ballroom"/>
+    <file name="ballroom04.jpg" crc="3921418492" seo="true" ref="ballroom"/>
+    <file name="mgm-grand-las-vegas-corridor-elevator-tower-entrance-u3913.png" crc="4098248796" ref="elevator"/>
+    <file name="imgres-crop-u3941.jpg" crc="253861017" ref="elevator"/>
+    <file name="encore-review-elevator-casi-crop-u3951.jpg" crc="210086612" ref="elevator"/>
+    <file name="mgm-grand-hotel-and-casino.jpg" crc="296636479" seo="true" ref="elevator"/>
+    <file name="caesars-rockchick-elevator-crop-u3971.jpg" crc="4035612590" ref="elevator"/>
+    <file name="restroom01-crop-u3820.jpg" crc="3824241906" ref="restroom"/>
+    <file name="restroom02-crop-u3843.jpg" crc="4132317682" ref="restroom"/>
+    <file name="touse_vanity.jpg" crc="188088677" seo="true" ref="restroom"/>
+    <file name="3daea35c726e474fbe1c0e5fd7d0c3b5.jpg" crc="4146620918" seo="true" ref="restroom"/>
+    <file name="parisbathroom.jpg" crc="4164180654" seo="true" ref="restroom"/>
+    <file name="hongkong_main02-crop-u3522.jpg" crc="4167567090" ref="chinese-restaurant"/>
+    <file name="hongkon03.jpg" crc="123710016" seo="true" ref="chinese-restaurant"/>
+    <file name="hongkong01-u3566.png" crc="144528218" ref="chinese-restaurant"/>
+    <file name="honkon04.jpg" crc="315841539" seo="true" ref="chinese-restaurant"/>
+    <file name="hongkon06.jpg" crc="144354542" seo="true" ref="chinese-restaurant"/>
+    <file name="hongkong05.jpg" crc="73774812" seo="true" ref="chinese-restaurant"/>
+    <file name="hongkong02-u3596.png" crc="46861792" ref="chinese-restaurant"/>
+    <file name="hongkong10-crop-u3613.jpg" crc="498671182" ref="chinese-restaurant"/>
+    <file name="hongkong08-crop-u3623.jpg" crc="4015124842" ref="chinese-restaurant"/>
+    <file name="yard-house-featured1-750x387-u3376.png" crc="69339622" ref="bar"/>
+    <file name="e- endamame-fries-snack-960 x 245.jpg" crc="222790005" seo="true" ref="bar"/>
+    <file name="e- taco-menu-960 x 245.jpg" crc="3889760040" seo="true" ref="bar"/>
+    <file name="960x250px-bbq-burger.jpg" crc="3858593318" seo="true" ref="bar"/>
+    <file name="e- lunch-menu-960 x 245.jpg" crc="16964790" seo="true" ref="bar"/>
+    <file name="e- steaks-menu-960 x 245.jpg" crc="3890549172" seo="true" ref="bar"/>
+    <file name="e- appetizer-salads-menu-960 x 245.jpg" crc="3998584374" seo="true" ref="bar"/>
+    <file name="e- desserts-menu-960 x 245-u3366.png" crc="3937110098" ref="bar"/>
+    <file name="e- pizza-menu-960 x 245.jpg" crc="4210831514" seo="true" ref="bar"/>
+    <file name="love01-crop-u3406.jpg" crc="143188278" ref="cirque-du-soleil"/>
+    <file name="love_logo.png" crc="194495145" seo="true" ref="cirque-du-soleil"/>
+    <file name="beatles-crop-u3444.jpg" crc="242082507" ref="cirque-du-soleil"/>
+    <file name="beatles06-crop-u3474.jpg" crc="4091010377" ref="cirque-du-soleil"/>
+    <file name="beatles04-crop-u3464.jpg" crc="436686954" ref="cirque-du-soleil"/>
+    <file name="beatles08-crop-u3496.jpg" crc="3973590124" ref="cirque-du-soleil"/>
+    <file name="mj01.jpg" crc="536852592" seo="true" ref="michael-jackson-one"/>
+    <file name="mj02-u3270.png" crc="521123355" ref="michael-jackson-one"/>
+    <file name="mj05-u3272.png" crc="3962987371" ref="michael-jackson-one"/>
+    <file name="mj03-u3274.png" crc="263649285" ref="michael-jackson-one"/>
   </folder>
   <file name="index.html" crc="258467599" seo="true" mt="1476410444464" redirect="false"/>
   <file name="dining.html" crc="416221258" seo="true" mt="1476420933317" redirect="false"/>
   <file name="entertainment.html" crc="398481053" seo="true" mt="1476266717864" redirect="false"/>
   <file name="sightseeing.html" crc="3981593179" seo="true" mt="1476266726544" redirect="false"/>
-  <file name="meeting-room.html" crc="3921739607" seo="true" mt="1476266733896" redirect="false"/>
-  <file name="ballroom.html" crc="4212010400" seo="true" mt="1476266746070" redirect="false"/>
-  <file name="elevator.html" crc="408588467" seo="true" mt="1476266751360" redirect="false"/>
-  <file name="restroom.html" crc="4021089409" seo="true" mt="1476266760948" redirect="false"/>
-  <file name="japanese-restaurant.html" crc="322659783" seo="true" mt="1476647515363" redirect="true"/>
+  <file name="meeting-room.html" crc="114596249" seo="true" mt="1476675320164" redirect="true"/>
+  <file name="ballroom.html" crc="320006561" seo="true" mt="1476673990274" redirect="true"/>
+  <file name="elevator.html" crc="344259141" seo="true" mt="1476679434531" redirect="true"/>
+  <file name="restroom.html" crc="217822324" seo="true" mt="1476678549297" redirect="true"/>
+  <file name="japanese-restaurant.html" crc="4228084442" seo="true" mt="1476667641523" redirect="true"/>
   <file name="direction.html" crc="3865057672" seo="true" mt="1476266794459" redirect="false"/>
   <file name="casino.html" crc="261877111" seo="true" mt="1476420892625" redirect="false"/>
-  <file name="korean-restaurant.html" crc="3758203940" seo="true" mt="1476649540032" redirect="true"/>
-  <file name="chinese-restaurant.html" crc="389782047" seo="true" mt="1476267028132" redirect="false"/>
-  <file name="american-restaurant.html" crc="264049590" seo="true" mt="1476610894808" redirect="true"/>
-  <file name="table-game.html" crc="3956229127" seo="true" mt="1476663950398" redirect="true"/>
-  <file name="slot-machine.html" crc="270249874" seo="true" mt="1476602389911" redirect="true"/>
-  <file name="bar.html" crc="16976026" seo="true" mt="1476649613546" redirect="true"/>
-  <file name="cirque-du-soleil.html" crc="4067054271" seo="true" mt="1476601901415" redirect="false"/>
-  <file name="michael-jackson-one.html" crc="510818348" seo="true" mt="1476602118894" redirect="true"/>
-  <file name="hiking.html" crc="534751023" seo="true" mt="1476609103348" redirect="true"/>
-  <file name="golf.html" crc="4168892195" seo="true" mt="1476601936441" redirect="true"/>
-  <file name="grand-canyon.html" crc="4204005866" seo="true" mt="1476606538535" redirect="true"/>
-  <file name="tours.html" crc="3891216922" seo="true" mt="1476484327975" redirect="true"/>
-  <file name="celine-dion.html" crc="387192040" seo="true" mt="1476601921253" redirect="true"/>
+  <file name="korean-restaurant.html" crc="162038683" seo="true" mt="1476667994747" redirect="true"/>
+  <file name="chinese-restaurant.html" crc="4106094263" seo="true" mt="1476672716357" redirect="true"/>
+  <file name="american-restaurant.html" crc="3986137353" seo="true" mt="1476667960062" redirect="true"/>
+  <file name="table-game.html" crc="4283497117" seo="true" mt="1476665037211" redirect="true"/>
+  <file name="slot-machine.html" crc="4220554456" seo="true" mt="1476665241756" redirect="true"/>
+  <file name="bar.html" crc="4146880824" seo="true" mt="1476668872170" redirect="true"/>
+  <file name="cirque-du-soleil.html" crc="3993339592" seo="true" mt="1476670700072" redirect="true"/>
+  <file name="michael-jackson-one.html" crc="4105870594" seo="true" mt="1476669241464" redirect="true"/>
+  <file name="hiking.html" crc="3949931110" seo="true" mt="1476665307485" redirect="true"/>
+  <file name="golf.html" crc="3763752009" seo="true" mt="1476665875087" redirect="true"/>
+  <file name="grand-canyon.html" crc="171555839" seo="true" mt="1476665601539" redirect="true"/>
+  <file name="tours.html" crc="3868426704" seo="true" mt="1476665464418" redirect="true"/>
+  <file name="celine-dion.html" crc="4255458773" seo="true" mt="1476666044697" redirect="true"/>
 </manifest>
